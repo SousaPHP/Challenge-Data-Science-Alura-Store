@@ -28,7 +28,7 @@ Realizar uma análise exploratória dos dados das 4 lojas da rede do Senhor Joã
 - Google Colab
 ---
 ## 📊 Exemplos de Gráficos e Insights Obtidos
-
+![exemplos](https://github.com/SousaPHP/Challenge-Data-Science-Alura-Store/blob/main/graficos/Exemplos.png)
 - Gráficos de barras comparando os produtos mais e menos vendidos por loja.
 - Gráficos de linha com a evolução das vendas ao longo dos anos.
 - Mapas de calor geográficos mostrando a distribuição das vendas por coordenadas (latitude e longitude).
