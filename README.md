@@ -13,8 +13,7 @@ Realizar uma análise exploratória dos dados das 4 lojas da rede do Senhor Joã
 ## 📁 Estrutura do Projeto
 
 - `base-de-dados-challenge-1/`: contém os arquivos CSV com os dados das lojas.
-- `analise.ipynb`: notebook com todo o processo de análise de dados, geração de gráficos e insights.
-- `relatorio.md`: relatório final com as principais descobertas e recomendação.
+- `AluraStore_PH.ipynb`: notebook com todo o processo de análise de dados, geração de gráficos e insights.
 - `graficos/`: imagens utilizadas no relatório e nos gráficos.
 - `README.md`: este arquivo.
 
@@ -22,14 +21,23 @@ Realizar uma análise exploratória dos dados das 4 lojas da rede do Senhor Joã
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 
 - Pandas
 - Matplotlib
-- Seaborn
 - Folium
 - Google Colab
 ---
+## 📊 Exemplos de Gráficos e Insights Obtidos
 
+- Gráficos de barras comparando os produtos mais e menos vendidos por loja.
+- Gráficos de linha com a evolução das vendas ao longo dos anos.
+- Mapas de calor geográficos mostrando a distribuição das vendas por coordenadas (latitude e longitude).
+- Comparações visuais de lucro, avaliação média e custo de frete entre as lojas.
+- Análises detalhadas das categorias de produtos mais populares e variações entre as unidades.
+
+Esses gráficos foram fundamentais para gerar insights e apoiar a recomendação final de qual loja deveria ser vendida.
+
+---
 ## 🧠 Aprendizados
 
 - Limpeza e tratamento de dados com Pandas  
@@ -37,10 +45,24 @@ Realizar uma análise exploratória dos dados das 4 lojas da rede do Senhor Joã
 - Uso de mapas de calor com dados geográficos  
 - Criação de gráficos comparativos e relatórios  
 - Tomada de decisão com base em dados
+  
+## ⚙️ Instruções para Executar o Notebook
 
-## 🚀 Resultado
+1. Faça o download dos arquivos do projeto:
+   - Clique em `Code` (botão verde no topo direito do repositório) e selecione `Download ZIP`.
+   - Extraia o conteúdo em uma pasta local.
 
-O resultado final pode ser encontrado no relatório (relatorio.md) que inclui uma análise detalhada com gráficos e recomendações baseadas nos dados.
+2. Acesse o site do [Google Colab](https://colab.research.google.com/).
+
+3. No Colab, clique em **Arquivo > Fazer upload de notebook** e selecione o arquivo `AluraStore_PH.ipynb` que estava na pasta extraída.
+
+4. Após abrir o notebook, **faça upload dos arquivos de dados** (por exemplo, os arquivos `.csv`) através da aba lateral esquerda do Colab:
+   - Clique no ícone de pasta.
+   - Depois, clique no botão de upload (ícone de seta para cima) e envie os arquivos necessários.
+
+5. Execute as células do notebook clicando em cada uma e apertando `Shift + Enter`, ou vá em **Executar > Executar tudo**.
+
+**Observação:** Certifique-se de subir todos os arquivos necessários (como os de dados) para que o notebook funcione corretamente.
 
 ## 📫 Contato
 
