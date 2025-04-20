@@ -62,13 +62,7 @@ Esses gráficos foram fundamentais para gerar insights e apoiar a recomendação
 
 3. No Colab, clique em **Arquivo > Fazer upload de notebook** e selecione o arquivo `AluraStore_PH.ipynb` que estava na pasta extraída.
 
-4. Após abrir o notebook, **faça upload dos arquivos de dados** (por exemplo, os arquivos `.csv`) através da aba lateral esquerda do Colab:
-   - Clique no ícone de pasta.
-   - Depois, clique no botão de upload (ícone de seta para cima) e envie os arquivos necessários.
-
-5. Execute as células do notebook clicando em cada uma e apertando `Shift + Enter`, ou vá em **Executar > Executar tudo**.
-
-**Observação:** Certifique-se de subir todos os arquivos necessários (como os de dados) para que o notebook funcione corretamente.
+4. Execute as células do notebook clicando em  executar cada uma, ou vá em **Executar > Executar tudo**.
 
 ## 📫 Contato
 
