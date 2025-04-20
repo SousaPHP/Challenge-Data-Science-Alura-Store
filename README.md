@@ -13,7 +13,8 @@ Realizar uma análise exploratória dos dados das 4 lojas da rede do Senhor Joã
 ## 📁 Estrutura do Projeto
 
 - `base-de-dados-challenge-1/`: contém os arquivos CSV com os dados das lojas.
-- `AluraStore_PH.ipynb`: notebook com todo o processo de análise de dados, geração de gráficos e insights.
+- `AluraStore_PH.ipynb`: notebook com todo o processo de análise de dados, geração de gráficos e relatorio.
+- `relatorio.md`: apenas o relatório final sem os códigos de análise de dados.
 - `graficos/`: imagens utilizadas no relatório e nos gráficos.
 - `README.md`: este arquivo.
 
@@ -45,7 +46,12 @@ Esses gráficos foram fundamentais para gerar insights e apoiar a recomendação
 - Uso de mapas de calor com dados geográficos  
 - Criação de gráficos comparativos e relatórios  
 - Tomada de decisão com base em dados
-  
+
+## 🚀 Resultado
+ 
+ O resultado final pode ser encontrado no relatório (relatorio.md) que inclui uma análise detalhada com gráficos e recomendações baseadas nos dados.  
+ ⚠O relatoria tambem está em `AluraStore_PH.ipynb`, coloquei separado porque achei que o acesso ficaria melhor.⚠
+
 ## ⚙️ Instruções para Executar o Notebook
 
 1. Faça o download dos arquivos do projeto:
