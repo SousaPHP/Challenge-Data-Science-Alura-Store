@@ -1,4 +1,4 @@
-# 📊 Challenge-Data-Science-Alura-Store# 
+# 📊 Challenge-Data-Science-Alura-Store
 
 Este projeto foi desenvolvido como parte de um **desafio de Data Science proposto pela Alura**, com o objetivo de aplicar conhecimentos de análise de dados em um cenário prático e simulado.
 
