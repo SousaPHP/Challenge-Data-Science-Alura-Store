@@ -12,7 +12,7 @@ Realizar uma análise exploratória dos dados das 4 lojas da rede do Senhor Joã
 
 ## 📁 Estrutura do Projeto
 
-- `dados/`: contém os arquivos CSV com os dados das lojas.
+- `base-de-dados-challenge-1/`: contém os arquivos CSV com os dados das lojas.
 - `analise.ipynb`: notebook com todo o processo de análise de dados, geração de gráficos e insights.
 - `relatorio.md`: relatório final com as principais descobertas e recomendação.
 - `graficos/`: imagens utilizadas no relatório e nos gráficos.
