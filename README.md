@@ -50,7 +50,7 @@ Esses gráficos foram fundamentais para gerar insights e apoiar a recomendação
 ## 🚀 Resultado
  
  O resultado final pode ser encontrado no relatório (relatorio.md) que inclui uma análise detalhada com gráficos e recomendações baseadas nos dados.  
- ⚠O relatoria tambem está em `AluraStore_PH.ipynb`, coloquei separado porque achei que o acesso ficaria melhor.⚠
+ ⚠O relatoria tambem está em `relatorio.md`, coloquei separado porque achei que o acesso ficaria melhor.⚠
 
 ## ⚙️ Instruções para Executar o Notebook
 
